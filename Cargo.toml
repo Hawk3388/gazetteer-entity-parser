@@ -1,8 +1,7 @@
 [package]
 name = "gazetteer-entity-parser"
-version = "0.9.0"
 authors = ["Alaa Saade <alaa.saade@snips.ai>"]
-repository = "https://github.com/snipsco/gazetteer-entity-parser"
+repository = "https://github.com/Hawk3388/gazetteer-entity-parser"
 description = "Gazetteer-based entity parser"
 edition = "2018"
 
